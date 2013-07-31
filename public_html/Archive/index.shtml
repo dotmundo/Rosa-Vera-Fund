@@ -1,0 +1,43 @@
+<html>
+<head>
+<title>The Rosa Vera Fund | El Fondo Rosa Vera</title>
+<!--#include file="ssi-meta.txt"-->
+<link rel="stylesheet" href="rosavera.css" type="text/css">
+</head>
+<!--#include file="ssi-bodycolor.txt" -->
+<table width="770" border="0" align="center">
+  <tr>
+    <td width="385"><div align="center"><BR><BR><img src="images/brianathm.jpg" width="160" height="250"></div></td>
+ 
+    <td width="26">&nbsp;</td>
+    <td width="345"><p>&nbsp;</p>
+      <p class="txt_body"><strong>Briana, three years old</strong></p>
+      <p> <br>
+        <span class="txt_body"><strong>Diagnosis</strong><br>
+        Protein malnutrition <br>
+        <br>
+        <strong>Intervention</strong><br>
+        Protein & vitamin supplementation<br>
+        Weekly weight checks <br>
+        <br>
+        <strong>Contribution</strong><br>
+        RVF: $5 per month <br>
+        Family: $2 per month </span></p>
+      </td>
+  </tr>
+</table>
+<table width="770" border="0" align="center">
+<tr><td><div align="center">
+        <p>&nbsp;</p>
+        <p>&nbsp;</p>
+        <p class="txt_body_lrg"><a href="index2.shtml">ENTER</a><br>
+          <br>
+          <a href="index2.shtml"><img src="images/rvf_logo.jpg" width="363" height="88" border="0"></a> 
+        </p>
+        </div></td></tr>
+
+</table>
+
+  
+</body>
+</html>

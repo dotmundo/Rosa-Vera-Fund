@@ -1,0 +1,8 @@
+/* ice-creme style - ice-creme.css */
+
+#top { background:#eaece6; border-bottom:1px solid #b7b8b4; }
+#top .content { background:none; }
+#featured { background:#d5dacb url(ice-creme/bg-slider-bot.png) repeat-x left bottom; border-top:1px solid #f7f8f5; border-bottom:1px solid #b5b8ab; }
+#nav a { color:#6c6c6c; }
+#nav a:hover, #nav li.current_page_item a, #nav li.current_page_parent{ color:#fff; background:#454545; border:1px solid #000; border-width: 0 0px 1px 0; }
+#featured h2 { color:#fff; }

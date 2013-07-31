@@ -1,0 +1,18 @@
+<html>
+<head>
+<title>The Rosa Vera Fund | El Fondo Rosa Vera</title>
+<!--#include file="ssi-meta.txt"-->
+<link rel="stylesheet" href="rosavera.css" type="text/css">
+</head>
+<!--#include file="ssi-bodycolor.txt" -->
+<div align="center">
+<!--#include file="ssi-navbar.txt"-->
+    <!--#include file="ssi-header.txt"-->
+    <br>
+    <img src="images/home1.jpg"><br>
+  <!--#include file="ssi-footer.txt" -->
+  </div>
+<div align="center"><BR>
+</div>
+</body>
+</html>

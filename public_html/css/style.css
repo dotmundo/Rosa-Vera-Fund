@@ -1,0 +1,54 @@
+/* Cascading Style Sheet for Neeta Dhawan Jewelry */
+
+/* MAIN STYLE */
+
+A:link{color:#FF6600; text-decoration:none}
+A:visited{color:#FF6600; text-decoration:none} 
+A:hover{color:#cc3300; text-decoration:none}
+
+BODY.main	{
+				background-color: white;
+				font-family: Verdana, Helvetica;
+				color: #666666;
+				font-size: 8pt;
+				font-weight: normal
+			}
+
+/* MAIN TABLE STYLE */
+TABLE.main 	{	
+				padding: 0;
+			}
+TR.main {}
+
+TD.mainData {
+				font-family: Verdana, Helvetica;
+				color: #666666;
+				font-size: 8pt;
+				line-height: 11pt
+			}
+
+
+/* STYLE FOR SCREEN ELEMENTS */
+.newsHeader{font-size:18pt; font-family: Georgia, "Times New Roman", Times, serif; color:#333333}
+.newsHeaderSmaller{font-size:14pt; font-family: Georgia, "Times New Roman", Times, serif; color:#333333}
+.newsText{font-size:12pt; line-height: 15pt; font-family: Georgia, "Times New Roman", Times, serif; color:#333333; font-weight: normal;}
+.newsTextSmall{font-size:10pt; line-height: 13pt; font-family: Georgia, "Times New Roman", Times, serif; color:#333333; font-weight: normal;}
+.more{font-size:8pt; line-height: 18pt; font-family: Verdana, Helvetica; color:#FF6600; font-weight: bold}
+.featureTitle{font-size:10pt; font-family: Verdana, Helvetica; color:#FF6600; font-weight: bold}
+.copyright{font-size:8pt; font-family: Verdana, Helvetica; color:#999999; letter-spacing: -.025em}
+.caption{font-size:8pt; line-height: 11pt; font-family: Verdana, Helvetica; color:#666666; letter-spacing: -.025em; padding-top:6pt; font-style:italic}
+.caption2{font-size:8pt; font-family: Verdana, Helvetica; color:#222222; letter-spacing: -.025em; font-style:italic}
+.caption3{font-size:8pt; line-height: 11pt; font-family: Verdana, Helvetica; color:#666666; letter-spacing: -.025em; padding-top:6pt;  padding-left:10pt; font-style:italic}
+.header{font-size:9pt; font-family: Verdana, Helvetica; color:#666666; font-weight: bold; padding-left:10px}
+.lgtext{font-size:9pt; line-height: 13pt; font-family: Verdana, Helvetica; color:#666666; font-weight: normal; padding-right:12px; padding-left:10px;}
+.lgtextNoPad{font-size:9pt; line-height: 12pt; font-family: Verdana, Helvetica; color:#666666; font-weight: normal;}
+.lgertextNoPad{font-size:11pt; line-height: 12pt; font-family: Verdana, Helvetica; color:#666666; font-weight: normal;}
+.lgtextBold{font-size:9pt; line-height: 12pt; font-family: Verdana, Helvetica; color:#666666; font-weight: bold}
+.bulletedtext{font-size:9pt; line-height: 12pt; font-family: Verdana, Helvetica; color:#666666; font-weight: normal; padding-right:12px; list-style-image:url(images/bullet2.gif); margin-bottom:.5em}
+ul {
+	list-style: none;
+	margin-left: 0;
+	padding-left: 1em;
+	text-indent: -1em;
+	}
+li { margin-bottom: 7px; }

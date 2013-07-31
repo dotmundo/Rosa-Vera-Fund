@@ -1,0 +1,4 @@
+   <BR>
+   <div align="center"> 
+ <p class="txt_footer">The Rosa Vera Fund | Jonathan Lee-Melk, Fund Administrator | 520.227.9167 | <a href="mailto:rosaverafund@gmail.com">Contact The RVF</a> | <a href="mailto:webmaster@rosaverafund.org">Website Comments</a>
+   </div>

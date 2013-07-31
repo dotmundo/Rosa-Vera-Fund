@@ -1,0 +1,76 @@
+<html>
+<head>
+<title>Donate To The Rosa Vera Fund</title>
+<!--#include file="ssi-meta.txt"-->
+<link rel="stylesheet" href="rosavera.css" type="text/css">
+</head>
+  <!--#include file="ssi-bodycolor.txt" -->
+<div align="center"> 
+  <!--#include file="ssi-navbar.txt"-->
+    <!--#include file="ssi-header.txt" -->
+	<BR>
+    <img src="images/headers/donate.jpg" width="770" height="50" border="0" align="middle">
+  </div>
+  
+<table width="770" border="0" align="center" >
+  <tr> 
+    <TD> <p class="txt_body_lrg"> Thank you for considering a generous donation 
+        to The Rosa Vera Fund. As you determine the amount you want to invest 
+        in this project, remember the following: 
+      <p class="txt_body"> 
+      <ul>
+        <li class="txtbodymed">Completing quality prevention and medical work 
+          in Bolivia is incredibly inexpensive.</li>
+        <li class="txtbodymed">The Rosa Vera Fund's interventions are entirely 
+          dependent on the donations of individuals, families and groups. There 
+          is no other source of funding. </li>
+        <li class="txtbodymed">100% of each donation is utilized to fund preventive 
+          or curative interventions. No administrative fees are deducted! </li>
+        <li class="txtbodymed">Donations are tax-deductible.</li>
+        <li class="txtbodymed">Regular reports are 
+          provided.</li>
+      </ul>
+      <p class="txt_body_lrg">Follow the simple steps below to either donate online 
+        or by sending a check via US Mail.<BR>
+        <br>
+    </TD>
+  </tr>
+  <tr>
+    <td> <table width="770" border="0">
+        <tr> 
+          <td width="413"><img src="images/visa_txt.jpg" ><br> <br><img src="images/visa.jpg" width="75" height="49"> 
+            <img src="images/mastercard.jpg" width="78" height="49"> <p class="txtbodymed">Visit 
+              the <a href="http://www.curamericas.org/donatenow/index.html" target="_blank"><u>Curamericas 
+              website</u></a> 
+            <p class="txtbodymed">Find the heading "Please direct my donation 
+              towards" <BR>
+              Check "Other" <br>
+              <font color="#FF0000"><strong>Type in: "The Rosa Vera Fund" </strong></font></td>
+          <td width="50"><img src="images/spacer.jpg"></td>
+          <td width="293" valign="top"><img src="images/check_txt.jpg" width="193" height="50" border="0" align="top" ><br> 
+            <p class="txtbodymed">Make out to "Curamericas" <br>
+              <font color="#FF0000"><strong>Indicate "The Rosa Vera Fund" </strong></font> 
+            <p class="txtbodymed">Mail to: <br>
+              Curamericas <br>
+              2245 North Hills Drive, Suite E<br>
+              Raleigh, NC 27612</td>
+        </tr>
+      </table></td>
+  </tr>
+  <tr> 
+    <td > </td>
+  </tr>
+  <tr> 
+    <td class="txt_head"> <div align="right"> 
+        <p align="center"><font size="4"><img src="images/thanks_txt.jpg" ></font></p>
+        <p align="center"><font size="4"><img src="images/sun.jpg" width="110" height="108"></font></p>
+      </div></td>
+  </tr>
+</table>
+
+    
+<div align="center">
+  <!--#include file="ssi-footer.txt" --></div>
+    </div>
+</body>
+</html>

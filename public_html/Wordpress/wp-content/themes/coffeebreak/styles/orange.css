@@ -1,0 +1,7 @@
+/* orange style - orange.css */
+
+#top { background:url(orange/bg-top-tile.gif) repeat-x top left; border-bottom:1px solid #000000; }
+#top .content { background:url(orange/bg-top.png) no-repeat top center; }
+#featured { background:#f1ad37 url(orange/bg-slider-bot.png) repeat-x left bottom; border-top:1px solid #f3c26f; border-bottom:1px solid #cb9535; }
+#nav a { color:#bfbfbf; }
+#nav a:hover, #nav li.current_page_item a, #nav li.current_page_parent{ color:#fff; background:#46433c; border:1px solid #2f2c26; border-width: 0 0px 1px 0; }

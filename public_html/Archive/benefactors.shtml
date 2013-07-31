@@ -1,0 +1,38 @@
+<html>
+<head>
+<title>The Rosa Vera Fund Benefactors</title>
+<!--#include file="ssi-meta.txt"-->
+<link rel="stylesheet" href="rosavera.css" type="text/css">
+</head>
+  <!--#include file="ssi-bodycolor.txt" -->
+<div align="center">
+<!--#include file="ssi-navbar.txt"-->
+    <!--#include file="ssi-header.txt"-->
+		<BR>
+
+    <img src="images/year2_pg1.jpg"  border="0" align="middle" > 
+    <BR><BR>
+	<img src="images/year2_pg2.jpg"  border="0" align="middle">
+	<BR><BR>
+	<img src="images/year2_pg3.jpg"  border="0" align="middle">
+	<BR><BR>
+	<img src="images/year2_pg4.jpg"  border="0" align="middle">
+	<BR><BR>
+	<img src="images/year2_pg5.jpg"  border="0" align="middle">
+	</td>
+    </tr> 
+  <tr>
+      <td height="2">&nbsp;</td>
+  </tr>
+  <BR><BR>
+  <tr>
+    <td class="txt_body_lrg"></td>
+  </tr>
+  <p class="txt_body_lrg">
+    <a href="benefactors_previous.shtml" target="_blank">View Benefactors from 
+    previous years</a> <BR>
+  </p>
+  <!--#include file="ssi-footer.txt" -->
+  </div>
+</body>
+</html>

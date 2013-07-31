@@ -1,0 +1,104 @@
+<html>
+<head>
+<title>Our Children of The Rosa Vera Fund</title>
+<!--#include file="ssi-meta.txt"-->
+
+<link rel="stylesheet" href="rosavera.css" type="text/css">
+</head>
+
+  <!--#include file="ssi-bodycolor.txt" -->
+<div align="center"> 
+  <!--#include file="ssi-navbar.txt"-->
+    <!--#include file="ssi-header.txt" -->
+  <P> <BR>
+  <table width="770" border="0" cellspacing="6" cellpadding="3">
+    <tr>
+      <td class="txt_head">Our Children 
+        of The Rosa Vera Fund</td>
+    </tr>
+    <tr>
+      <td>
+        <table width="770" border="0" cellspacing="6" cellpadding="3">
+          <tr>
+            <td class="txt_caption" width="376"> 
+              <div align="center">
+                <p><b>Pablo 
+                  Aruez Siles 
+                  (pictured 
+                  with his 
+                  mother)</b></p>
+              </div>
+            </td>
+            <td width="364" class="txt_caption"> 
+              <div align="center">
+                <p><b>Reina 
+                  Cruz Garcia</b></p>
+              </div>
+            </td>
+          </tr>
+          <tr>
+            <td width="376"> 
+              <div align="center"><img src="images/pablo.jpg" width="200" height="299"></div>
+            </td>
+            <td width="364"> 
+              <div align="center"><img src="images/reina.jpg" width="200" height="303"></div>
+            </td>
+          </tr>
+          <tr> 
+            <td width="376"> 
+              <p class="txt_body"><span class="txt_body"><b>Diagnoses</b></span></p>
+              <ul>
+                <li class="txt_body">Corneal 
+                  disease (near 
+                  blindness)</li>
+                <li class="txt_body">Gall 
+                  bladder inflammation</li>
+              </ul>
+              <p class="txt_body"><b>Interventions</b></p>
+              <ul>
+                <li class="txt_body">Corneal 
+                  transplant 
+                  (1/04)</li>
+                <li class="txt_body">Gall 
+                  bladder removal 
+                  (5/04)</li>
+              </ul>
+             <p class="txt_body"><b>Family Contribution</b></p>
+			 
+			 <p class="txt_body"><b>RVF Contribution</b></p>
+            </td>
+            <td width="364"> 
+              <p class="txt_body"><b>Diagnoses</b></p>
+              <ul>
+                <li class="txt_body">Heart 
+                  and renal 
+                  failure, 
+                  secondary 
+                  to rheumatic 
+                  fever</li>
+                <li class="txt_body">Not 
+                  attending 
+                  school</li>
+              </ul>
+              <p class="txt_body"><b>Interventions</b></p>
+              <ul>
+                <li class="txt_body">Ongoing 
+                  medical therapy</li>
+                <li class="txt_body">School 
+                  placement</li>
+              </ul>
+			   <p class="txt_body"><b>Family Contribution</b></p>
+			    <p class="txt_body"><b>RVF Contribution</b></p>
+            </td>
+          </tr>
+        </table>
+      </td>
+    </tr>
+  </table>
+  <P> <BR>
+    <BR>
+    <!--#include file="ssi-footer.txt" -->
+  
+  </div>
+</body>
+</html>

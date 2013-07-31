@@ -1,0 +1,8 @@
+/* ice-blue style - ice-blue.css */
+
+#top { background:#f4fcff; border-bottom:1px solid #a5aaac; }
+#top .content { background:none; }
+#featured { background:#5ca7bf url(ice-blue/bg-slider-bot.png) repeat-x left bottom; border-top:1px solid #a0ccda; border-bottom:1px solid #5490a2; }
+#nav a { color:#6c6c6c; }
+#nav a:hover, #nav li.current_page_item a, #nav li.current_page_parent{ color:#fff; background:#74b8ce; border:1px solid #4c92a9; border-width: 0 0px 1px 0; }
+#featured h2 { color:#fff; }

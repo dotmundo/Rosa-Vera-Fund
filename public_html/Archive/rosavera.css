@@ -1,0 +1,21 @@
+a {  color: #000000;; font-weight: normal}
+a:hover {  text-decoration: underline; color: #00FF00; font-weight: 200}
+img {border: #333333 none;}
+
+.txt_copyright {  font-family: Garamond; font-size: 10px; font-weight: normal; color: #000000}
+.txt_caption { font-family: Garamond; font-size: 14px; font-weight: normal; color: #000000; font-style: italic}
+.txt_title { font-family: Garamond; font-size: 16px; font-weight: bold; color: #000000 }
+.txt_index {  font-family: Garamond; font-size: 11px; font-style: normal; font-weight: normal; color: #000000}
+
+.txt_body {  font-family: Garamond; font-size: 15px; font-style: normal; font-weight: 100; color: #000000}
+.txt_body_lrg {  font-family: Garamond; font-size: 26px; color: #000000}
+.txt_quote { font-family: Garamond; font-size: 11px; font-style: normal; font-weight: normal; color: #000000}
+.txt_caption_sub {
+font-family: Garamond; font-size: 14px; font-weight: normal; color: #000000}
+
+.txt_head {  font-family: Garamond; font-size: 30px; font-style: normal; font-weight: 700; color: #000000; clip:  rect(   )}
+.txt_footer { font-family: Garamond; font-size: 10px; font-weight: normal; color: #000000 }
+.txt_navigation { font-family: Garamond; font-size: 16px; font-style: normal; font-weight: bold; color: #000000; clip: rect( ) }
+.txtbodymed {
+font-family: Garamond; font-size: 21px; color: #000000
+}

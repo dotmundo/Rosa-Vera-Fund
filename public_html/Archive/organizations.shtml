@@ -1,0 +1,132 @@
+<html>
+<head>
+<title>Partner Organizations of The Rosa Vera Fund</title>
+<!--#include file="ssi-meta.txt"-->
+
+<link rel="stylesheet" href="rosavera.css" type="text/css">
+</head>
+
+  <!--#include file="ssi-bodycolor.txt" -->
+<div align="center"> 
+  <!--#include file="ssi-navbar.txt"-->
+    <!--#include file="ssi-header.txt" -->
+  <p class="txt_head"><BR>
+  <table width="770" border="0" cellspacing="6" cellpadding="3">
+    <tr>
+      <td class="txt_head">
+        <div align="center">
+          <p>Our Partner Organizations</p>
+        </div>
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <table width="770" border="0" cellspacing="6" cellpadding="3">
+          <tr>
+            <td width="174">
+              <div align="center"><a href="http://www.curamericas.org/" target="_blank"><img src="images/curamericas.gif" width = "130" border="0" alt="Curamericas"></a></div>
+            </td>
+            <td width="566"> 
+              <p class="txt_body_lrg"><b>Curamericas</b> 
+              </p>
+              <p class="txt_body">This 
+                nonprofit organization, 
+                headquartered 
+                in Raleigh, 
+                North Carolina, 
+                has provided 
+                primary health 
+                care and practical 
+                health education 
+                to women and 
+                children living 
+                in poverty 
+                throughout 
+                Latin America.</p>
+      </td>
+          </tr>
+          <tr>
+            <td width="174">
+              <div align="center"><img src="images/csra.jpg" width="96" height="89"></div>
+            </td>
+            <td width="566"> 
+              <p class="txt_body_lrg"><b>El 
+                Consejo de 
+                Salud Rural 
+                Andino (CSRA)</b></p>
+              <p class="txt_body">The 
+                Rural Andean 
+                Health Counsel 
+                is a Bolivian 
+                nonprofit organization 
+                that reduces 
+                the morbidity/mortality 
+                of poverty-stricken 
+                communities 
+                throughout 
+                Bolivia. </p>
+      </td>
+          </tr>
+        </table>
+      </td>
+    </tr>
+  </table>
+
+  <p>&nbsp;</p>
+  <table width="599" border="1" cellspacing="15" cellpadding="6">
+    <tr>
+      <td width="255" class="txt_body_lrg" height="81">CSRA 
+        and Curamericas have 
+        worked together in 
+        Montero since 1983 
+        to provide: </td>
+      <td width="275" class="txt_body_lrg" height="81">Collaborations 
+        include: </td>
+    </tr>
+    <tr> 
+      <td width="255"> 
+        <ul class="txt_body">
+          <li>child survival 
+            techniques <li>maternal/ 
+            reproductive health 
+            
+          <li class="txt_body">micro-enterprise 
+            development 
+          <li>water 
+            sanitation <li>tuberculosis 
+            intervention
+        </ul>
+      </td>
+      <td width="275"> 
+        <ul>
+          <li class="txt_caption"><span class="txt_body">The 
+            US Agency for International 
+            Development</span>
+          <li class="txt_caption"><span class="txt_body"> 
+            The Center for 
+            Disease Control 
+            and Prevention</span>
+          <li class="txt_caption"><span class="txt_body"> 
+            CARE International</span>
+          <li class="txt_caption"><span class="txt_body"> 
+            Freedom From Hunger</span>
+          <li class="txt_caption"><span class="txt_body"> 
+            Water for People 
+            </span>
+        </ul>
+        <p>&nbsp;</p>
+        <p align="center"><span class="txt_caption">These 
+          efforts have established 
+          some of the region's 
+          largest and most 
+          successful health 
+          care initiatives. 
+          </span></p>
+      </td>
+    </tr>
+  </table>
+  <!--#include file="ssi-footer.txt" -->
+  
+  </div>
+</body>
+</html>

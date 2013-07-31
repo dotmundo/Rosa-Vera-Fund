@@ -1,0 +1,78 @@
+<html>
+<head>
+<title>How To Donate To The Rosa Vera Fund</title>
+<!--#include file="ssi-meta.txt"-->
+<link rel="stylesheet" href="rosavera.css" type="text/css">
+</head>
+
+  <!--#include file="ssi-bodycolor.txt" -->
+<div align="center"> 
+  <!--#include file="ssi-navbar.txt"-->
+    <!--#include file="ssi-header.txt" -->
+
+  <table width="770" border="0" cellspacing="6" cellpadding="6">
+    <tr> 
+      <td class="txt_head"> 
+        <div align="left"> 
+          <p>How To Donate 
+            To The Rosa Vera 
+            Fund</p>
+        </div>
+      </td>
+    </tr>
+    <tr> 
+      <td class="txt_body_lrg"> 
+        <p><b>1) Credit / Debit 
+          Card</b></p>
+        <p><a href="http://www.curamericas.org/DonateNow.htm" target="_blank">Visit 
+          the Curamericas website</a></p>
+        <p class="txt_body">Find 
+          the heading "PLEASE 
+          DIRECT MY DONATION 
+          TOWARDS"</p>
+        <p class="txt_body">Check 
+          "Other" </p>
+        <p><span class="txt_body">Type 
+          in: "The Rosa Vera 
+          Fund, Montero" </span> 
+        </p>
+      </td>
+    </tr>
+    <tr> 
+      <td class="txt_body_lrg"> 
+        <p><b>2) Check or Money 
+          Order</b></p>
+        <p>Make out to "CURAMERICAS" 
+          Indicate "The Rosa 
+          Vera Fund, Montero" 
+        </p>
+        <p class="txt_body">Mail 
+          to: <br>
+          CURAMERICAS<br>
+          c/o Gladys Shanklin 
+          <br>
+          224 East Martin Street 
+          <br>
+          Raleigh, North Carolina 
+          27601 </p>
+      </td>
+    </tr>
+    <tr>
+      <td class="txt_body">
+        <p>Documentation of 
+          your donation will 
+          be provided for tax 
+          deduction purposes.</p>
+        <p>If you would like 
+          your contribution 
+          to remain anonymous, 
+          please <a href="mailto:jonathan@rosaverafund.org">contact Jonathan.</a> </p>
+      </td>
+    </tr>
+  </table>
+
+    <!--#include file="ssi-footer.txt" -->
+  
+  </div>
+</body>
+</html>

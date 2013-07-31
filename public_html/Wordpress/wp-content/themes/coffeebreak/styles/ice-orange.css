@@ -1,0 +1,8 @@
+/* ice-orange style - ice-orange.css */
+
+#top { background:#f9f6f1; border-bottom:1px solid #a8a6a3; }
+#top .content { background:none; }
+#featured { background:#ebb053 url(ice-orange/bg-slider-bot.png) repeat-x left bottom; border-top:1px solid #f3d19b; border-bottom:1px solid #c6964d; }
+#nav a { color:#6c6c6c; }
+#nav a:hover, #nav li.current_page_item a, #nav li.current_page_parent{ color:#fff; background:#ebb053; border:1px solid #bb8d43; border-width: 0 0px 1px 0; }
+#featured h2 { color:#fff; }

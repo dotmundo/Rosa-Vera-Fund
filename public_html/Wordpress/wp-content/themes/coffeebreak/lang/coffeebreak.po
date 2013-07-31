@@ -1,0 +1,514 @@
+msgid ""
+msgstr ""
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#. Text in function
+#: coffeebreak/archive.php:47
+#: coffeebreak/template-blog.php:54
+#: coffeebreak/search.php:36
+msgid " Older Entries &raquo;"
+msgstr ""
+
+#. Text in function
+#: coffeebreak/comments.php:19
+msgid "% Responses"
+msgstr ""
+
+#. Text in function
+#: coffeebreak/archive.php:46
+#: coffeebreak/template-blog.php:53
+#: coffeebreak/search.php:35
+msgid "&laquo; Newer Entries "
+msgstr ""
+
+#. Text in echo
+#: coffeebreak/404.php:5
+msgid "404 - Page Not Found"
+msgstr ""
+
+#. Text in function
+#: coffeebreak/includes/theme-functions.php:1
+msgid "Add New Mini-Feature"
+msgstr ""
+
+#. Text in function
+#: coffeebreak/includes/theme-functions.php:1
+msgid "Add New Slide"
+msgstr ""
+
+#. Text in echo
+#: coffeebreak/archive.php:9
+msgid "Archive by Author"
+msgstr ""
+
+#. Text in echo
+#: coffeebreak/archive.php:5
+#: coffeebreak/archive.php:6
+#: coffeebreak/archive.php:7
+msgid "Archive for"
+msgstr ""
+
+#. Text in echo
+#: coffeebreak/archive.php:8
+msgid "Archive for the year"
+msgstr ""
+
+#. Text in echo
+#: coffeebreak/archive.php:10
+msgid "Archives"
+msgstr ""
+
+#. Text in echo
+#: coffeebreak/header.php:75
+#: coffeebreak/template-blog.php:10
+msgid "Blog"
+msgstr ""
+
+#. Text in echo
+#: coffeebreak/template-sitemap.php:32
+#: coffeebreak/template-archives.php:35
+msgid "Categories"
+msgstr ""
+
+#. Text in echo
+#: coffeebreak/includes/theme-widgets.php:82
+msgid "Category:"
+msgstr ""
+
+#. Text in echo
+#: coffeebreak/comments.php:48
+msgid "Comments are closed."
+msgstr ""
+
+#. Text in function
+#: coffeebreak/functions/admin-express-functions.php:1
+msgid "Could not write file %1$s (%2$s)"
+msgstr ""
+
+#. Text in echo
+#: coffeebreak/template-contact.php:143
+msgid "E-mail has not been setup properly. Please add your contact e-mail!"
+msgstr ""
+
+#. Text in function
+#: coffeebreak/includes/theme-functions.php:1
+msgid "Edit Mini-Feature"
+msgstr ""
+
+#. Text in function
+#: coffeebreak/includes/theme-functions.php:1
+msgid "Edit Slide"
+msgstr ""
+
+#. Text in echo
+#: coffeebreak/template-contact.php:157
+msgid "Email"
+msgstr ""
+
+#. Text in echo
+#: coffeebreak/includes/theme-widgets.php:400
+msgid "Enter your e-mail address"
+msgstr ""
+
+#. Text in echo
+#: coffeebreak/includes/theme-widgets.php:430
+msgid "Feedburner ID:"
+msgstr ""
+
+#. Text in echo
+#: coffeebreak/includes/theme-widgets.php:210
+msgid "Flickr ID (<a href=\"http://www.idgettr.com\">idGettr</a>):"
+msgstr ""
+
+#. Text in echo
+#: coffeebreak/includes/theme-widgets.php:128
+msgid "Follow us on Twitter"
+msgstr ""
+
+#. Text in function
+#: coffeebreak/template-contact.php:7
+msgid "From: "
+msgstr ""
+
+#. Text in echo
+#: coffeebreak/includes/theme-widgets.php:225
+msgid "Group"
+msgstr ""
+
+#. Text in echo
+#: coffeebreak/header.php:72
+msgid "Home"
+msgstr ""
+
+#. Text in echo
+#: coffeebreak/includes/theme-widgets.php:231
+msgid "Latest"
+msgstr ""
+
+#. Text in function
+#: coffeebreak/comments.php:60
+msgid "Leave a Reply"
+msgstr ""
+
+#. Text in function
+#: coffeebreak/comments.php:60
+msgid "Leave a Reply to %s"
+msgstr ""
+
+#. Text in echo
+#: coffeebreak/includes/theme-widgets.php:155
+msgid "Limit:"
+msgstr ""
+
+#. Text in echo
+#: coffeebreak/comments.php:74
+msgid "Log out of this account"
+msgstr ""
+
+#. Text in echo
+#: coffeebreak/comments.php:74
+msgid "Logged in as"
+msgstr ""
+
+#. Text in echo
+#: coffeebreak/comments.php:74
+msgid "Logout"
+msgstr ""
+
+#. Text in echo
+#: coffeebreak/comments.php:82
+msgid "Mail (will not be published)"
+msgstr ""
+
+#. Text in echo
+#: coffeebreak/template-contact.php:164
+msgid "Message"
+msgstr ""
+
+#. Text in echo
+#: coffeebreak/template-archives.php:43
+msgid "Monthly Archives"
+msgstr ""
+
+#. Text in echo
+#: coffeebreak/comments.php:79
+#: coffeebreak/template-contact.php:150
+msgid "Name"
+msgstr ""
+
+#. Text in function
+#: coffeebreak/includes/theme-functions.php:1
+msgid "New Mini-Feature"
+msgstr ""
+
+#. Text in function
+#: coffeebreak/includes/theme-functions.php:1
+msgid "New Slide"
+msgstr ""
+
+#. Text in function
+#: coffeebreak/includes/theme-functions.php:1
+msgid "No Mini-Features found"
+msgstr ""
+
+#. Text in function
+#: coffeebreak/includes/theme-functions.php:1
+msgid "No Mini-Features found in Trash"
+msgstr ""
+
+#. Text in function
+#: coffeebreak/comments.php:19
+msgid "No Responses"
+msgstr ""
+
+#. Text in function
+#: coffeebreak/includes/theme-functions.php:1
+msgid "No slides found"
+msgstr ""
+
+#. Text in function
+#: coffeebreak/includes/theme-functions.php:1
+msgid "No slides found in Trash"
+msgstr ""
+
+#. Text in echo
+#: coffeebreak/includes/theme-widgets.php:95
+msgid "No. of Posts:"
+msgstr ""
+
+#. Text in echo
+#: coffeebreak/includes/theme-widgets.php:214
+msgid "Number:"
+msgstr ""
+
+#. Text in function
+#: coffeebreak/comments.php:19
+msgid "One Response"
+msgstr ""
+
+#. Text in echo
+#: coffeebreak/template-sitemap.php:22
+msgid "Pages"
+msgstr ""
+
+#. Text in echo
+#: coffeebreak/includes/theme-widgets.php:186
+msgid "Photos on <span>flick<span>r</span></span>"
+msgstr ""
+
+#. Text in echo
+#: coffeebreak/single.php:25
+#: coffeebreak/archive.php:33
+#: coffeebreak/template-blog.php:40
+#: coffeebreak/search.php:22
+msgid "Posted on"
+msgstr ""
+
+#. Text in function
+#: coffeebreak/includes/theme-functions.php:1
+msgid "Primary Menu"
+msgstr ""
+
+#. Text in echo
+#: coffeebreak/includes/theme-widgets.php:232
+msgid "Random"
+msgstr ""
+
+#. Text in echo
+#: coffeebreak/index.php:35
+msgid "Read More"
+msgstr ""
+
+#. Text in function
+#: coffeebreak/template-contact.php:7
+msgid "Reply-To: "
+msgstr ""
+
+#. Text in function
+#: coffeebreak/includes/theme-functions.php:1
+msgid "Search Mini-Features"
+msgstr ""
+
+#. Text in echo
+#: coffeebreak/search.php:5
+msgid "Search Results"
+msgstr ""
+
+#. Text in function
+#: coffeebreak/includes/theme-functions.php:1
+msgid "Search Slides"
+msgstr ""
+
+#. Text in echo
+#: coffeebreak/search-form.php:3
+msgid "Search..."
+msgstr ""
+
+#. Text in echo
+#: coffeebreak/template-contact.php:170
+msgid "Send a copy of this email to yourself"
+msgstr ""
+
+#. Text in echo
+#: coffeebreak/single.php:38
+#: coffeebreak/archive.php:41
+#: coffeebreak/template-blog.php:48
+#: coffeebreak/template-fullwidth.php:35
+#: coffeebreak/search.php:30
+#: coffeebreak/page.php:33
+msgid "Sorry, no posts matched your criteria."
+msgstr ""
+
+#. Text in echo
+#: coffeebreak/includes/theme-widgets.php:229
+msgid "Sorting:"
+msgstr ""
+
+#. Text in echo
+#: coffeebreak/comments.php:93
+#: coffeebreak/template-contact.php:172
+msgid "Submit"
+msgstr ""
+
+#. Text in echo
+#: coffeebreak/archive.php:11
+msgid "Tag Archives:"
+msgstr ""
+
+#. Text in echo
+#: coffeebreak/template-contact.php:124
+msgid "Thanks"
+msgstr ""
+
+#. Text in echo
+#: coffeebreak/single.php:5
+msgid "The Blog"
+msgstr ""
+
+#. Text in echo
+#: coffeebreak/template-archives.php:21
+msgid "The Last 30 Posts"
+msgstr ""
+
+#. Text in echo
+#: coffeebreak/404.php:18
+msgid "The page you trying to reach does not exist, or has been moved. Please use the menus or the search box to find what you are looking for."
+msgstr ""
+
+#. Text in echo
+#: coffeebreak/template-contact.php:139
+msgid "There was an error submitting the form."
+msgstr ""
+
+#. Text in echo
+#: coffeebreak/comments.php:7
+msgid "This post is password protected. Enter the password to view comments."
+msgstr ""
+
+#. Text in echo
+#: coffeebreak/includes/theme-widgets.php:426
+#: coffeebreak/includes/theme-widgets.php:314
+msgid "Title:"
+msgstr ""
+
+#. Text in echo
+#: coffeebreak/comments.php:33
+msgid "Trackbacks/Pingbacks"
+msgstr ""
+
+#. Text in echo
+#: coffeebreak/includes/theme-widgets.php:222
+msgid "Type:"
+msgstr ""
+
+#. Text in echo
+#: coffeebreak/includes/theme-widgets.php:434
+msgid "Use Feedburner Google URL?"
+msgstr ""
+
+#. Text in echo
+#: coffeebreak/includes/theme-widgets.php:224
+msgid "User"
+msgstr ""
+
+#. Text in echo
+#: coffeebreak/includes/theme-widgets.php:151
+msgid "Username:"
+msgstr ""
+
+#. Text in function
+#: coffeebreak/includes/theme-functions.php:1
+msgid "View Mini-Feature"
+msgstr ""
+
+#. Text in function
+#: coffeebreak/includes/theme-functions.php:1
+msgid "View Slide"
+msgstr ""
+
+#. Text in echo
+#: coffeebreak/comments.php:85
+msgid "Website"
+msgstr ""
+
+#. Text in function
+#: coffeebreak/includes/theme-widgets.php:409
+msgid "Woo - Advert 300px"
+msgstr ""
+
+#. Text in function
+#: coffeebreak/includes/theme-widgets.php:366
+msgid "Woo - Feedburner"
+msgstr ""
+
+#. Text in function
+#: coffeebreak/includes/theme-widgets.php:317
+msgid "Woo - Flickr"
+msgstr ""
+
+#. Text in function
+#: coffeebreak/includes/theme-widgets.php:366
+msgid "Woo - Latest News"
+msgstr ""
+
+#. Text in function
+#: coffeebreak/includes/theme-widgets.php:277
+msgid "Woo - Search"
+msgstr ""
+
+#. Text in function
+#: coffeebreak/includes/theme-widgets.php:440
+msgid "Woo - Twitter"
+msgstr ""
+
+#. Text in function
+#: coffeebreak/functions/admin-express-functions.php:1
+msgid "You are not allowed to upload files to this site."
+msgstr ""
+
+#. Text in function
+#: coffeebreak/template-contact.php:7
+msgid "You entered an invalid email address."
+msgstr ""
+
+#. Text in function
+#: coffeebreak/template-contact.php:7
+msgid "You forgot to enter your comments."
+msgstr ""
+
+#. Text in function
+#: coffeebreak/template-contact.php:7
+msgid "You forgot to enter your email address."
+msgstr ""
+
+#. Text in function
+#: coffeebreak/template-contact.php:7
+msgid "You forgot to enter your name."
+msgstr ""
+
+#. Text in echo
+#: coffeebreak/comments.php:67
+msgid "You must be"
+msgstr ""
+
+#. Text in function
+#: coffeebreak/includes/theme-comments.php:20
+msgid "Your comment is awaiting moderation."
+msgstr ""
+
+#. Text in echo
+#: coffeebreak/template-contact.php:125
+msgid "Your email was successfully sent."
+msgstr ""
+
+#. Text in echo
+#: coffeebreak/single.php:25
+#: coffeebreak/archive.php:33
+#: coffeebreak/template-blog.php:40
+#: coffeebreak/search.php:22
+msgid "by"
+msgstr ""
+
+#. Text in echo
+#: coffeebreak/single.php:25
+#: coffeebreak/archive.php:33
+#: coffeebreak/template-blog.php:40
+#: coffeebreak/search.php:22
+msgid "in"
+msgstr ""
+
+#. Text in echo
+#: coffeebreak/comments.php:67
+msgid "logged in"
+msgstr ""
+
+#. Text in echo
+#: coffeebreak/comments.php:19
+msgid "to"
+msgstr ""
+
+#. Text in echo
+#: coffeebreak/comments.php:67
+msgid "to post a comment."
+msgstr ""

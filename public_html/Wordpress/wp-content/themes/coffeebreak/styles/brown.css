@@ -1,0 +1,7 @@
+/* brown style - brown.css */
+
+#top { background:url(brown/bg-top-tile.gif) repeat-x top left; border-bottom:1px solid #462c13; }
+#top .content { background:url(brown/bg-top.png) no-repeat top center; }
+#featured { background:#b27840 url(brown/bg-slider-bot.png) repeat-x left bottom; border-top:1px solid #c79d74; border-bottom:1px solid #745435; }
+#nav a { color:#c0b1a5; }
+#nav a:hover, #nav li.current_page_item a, #nav li.current_page_parent{ color:#fff; background:#633101; border:1px solid #4b2601; border-width: 0 0px 1px 0; }

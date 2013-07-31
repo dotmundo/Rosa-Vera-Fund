@@ -1,0 +1,11 @@
+# -FrontPage-
+
+Options None
+
+<Limit GET POST PUT DELETE>
+order deny,allow
+deny from all
+</Limit>
+AuthName restricted/logs
+AuthUserFile /export/home/rvf/public_html/restricted/logs/_vti_pvt/service.pwd
+AuthGroupFile /export/home/rvf/public_html/restricted/logs/_vti_pvt/service.grp

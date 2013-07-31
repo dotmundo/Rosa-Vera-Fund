@@ -1,0 +1,33 @@
+<html>
+<head>
+<title>The Rosa Vera Fund Mission</title>
+<!--#include file="ssi-meta.txt"-->
+<link rel="stylesheet" href="rosavera.css" type="text/css">
+</head>
+  <!--#include file="ssi-bodycolor.txt" -->
+<div align="center">
+<!--#include file="ssi-navbar.txt"-->
+<!--#include file="ssi-header.txt"-->
+<table width="770" border="0" align="center" cellpadding="0" cellspacing="0">
+    <tr> 
+      <td> <P class="txt_head" align="center"><img src="images/headers/mission.jpg"></td>
+  </tr>
+  <tr>
+      <td> <P class="txt_body_lrg" align="center"> <img src="images/mission1.jpg" >
+        <P class="txt_body_lrg" align="center"><img src="images/sun.jpg" width="87" height="85"> 
+        <P class="txt_body" align="left">&nbsp;
+      </td>
+  </tr>
+  <tr>
+      <td height="2">&nbsp;</td>
+  </tr>
+  <tr>
+    <td>
+      </td>
+  </tr>
+</table>
+    <BR>
+    <!--#include file="ssi-footer.txt" -->
+  </div>
+</body>
+</html>

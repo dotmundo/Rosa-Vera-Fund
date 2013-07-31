@@ -1,0 +1,8 @@
+/* chrome style - chrome.css */
+
+#top { background:url(chrome/bg-top-tile.gif) repeat-x top left; border-bottom:1px solid #313131; }
+#top .content { background:url(chrome/bg-top.png) no-repeat top center; }
+#featured { background:#ecece9 url(chrome/bg-slider-bot.png) repeat-x left bottom; border-top:1px solid #fff; border-bottom:1px solid #c7c7c3; }
+#nav a { color:#bfbfbf; }
+#nav a:hover, #nav li.current_page_item a, #nav li.current_page_parent{ color:#fff; background:#3a3a3a; border:1px solid #000; border-width: 0 0px 1px 0; }
+#featured h2 { color:#333; }

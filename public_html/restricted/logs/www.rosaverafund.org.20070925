@@ -1,0 +1,3 @@
+38.99.44.104 - - [24/Sep/2007:04:23:35 -0500] "GET /robots.txt HTTP/1.0" 404 3042 "-" "Mozilla/5.0 (Twiceler-0.9 http://www.cuill.com/twiceler/robot.html)"
+216.145.11.94 - - [24/Sep/2007:11:42:20 -0500] "GET /robots.txt HTTP/1.0" 404 3042 "http://www.whois.sc/" "SurveyBot/2.3 (Whois Source)"
+216.145.11.94 - - [24/Sep/2007:11:42:21 -0500] "GET / HTTP/1.1" 200 1733 "http://www.whois.sc/rosaverafund.org" "SurveyBot/2.3 (Whois Source)"

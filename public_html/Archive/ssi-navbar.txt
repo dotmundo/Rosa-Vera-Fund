@@ -1,0 +1,21 @@
+<p class="txt_navigation">
+ 
+<a href="index2.shtml"><img src="../images/buttons/home.jpg"></a>
+   <img src="../images/buttons/space.jpg">
+<a href="about.shtml"><img src="../images/buttons/about.jpg"></a> 
+       <img src="../images/buttons/space.jpg">
+<a href="mission.shtml"><img src="../images/buttons/mission.jpg"></a> 
+   <img src="../images/buttons/space.jpg">
+	<a href="methodology.shtml"><img src="../images/buttons/methodology.jpg"></a> 
+	
+	<br>
+     
+<a href="beneficiaries.shtml"><img src="../images/buttons/beneficiaries.jpg"></a> 
+   <img src="../images/buttons/space.jpg">
+	 <a href="benefactors.shtml"><img src="../images/buttons/benefactors.jpg"></a> 
+   <img src="../images/buttons/space.jpg">
+   <a href="partners.shtml"><img src="../images/buttons/partners.jpg"></a>
+   <img src="../images/buttons/space.jpg">
+	<a href="donate.shtml"><img src="../images/buttons/donate.jpg"></a> 
+
+	<Br>

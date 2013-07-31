@@ -1,0 +1,102 @@
+<html>
+<head>
+<title>Partner Organizations of The Rosa Vera Fund</title>
+<!--#include file="ssi-meta.txt"-->
+
+<link rel="stylesheet" href="rosavera.css" type="text/css">
+</head>
+
+  <!--#include file="ssi-bodycolor.txt" -->
+<div align="center"> 
+  <!--#include file="ssi-navbar.txt"-->
+    <!--#include file="ssi-header.txt" -->
+  <table width="770" border="0" cellspacing="6" cellpadding="3">
+    <tr>
+      <td class="txt_head"> <div align="center"><img src="images/headers/partners.jpg"> 
+        </div></td>
+    </tr>
+    <tr>
+      <td>
+        <table width="770" border="0" cellspacing="6" cellpadding="3">
+          <tr>
+            <td width="174" height="206"> 
+              <div align="center"><BR><BR>
+                <a href="http://www.curamericas.org/" target="_blank"><img src="images/cura_logo.jpg" alt="Curamericas" width="147" height="113" border="0"></a></div>
+            </td>
+            <td width="566"> <p class="txt_body_lrg"><img src="images/cura_txt.jpg" width="600" height="50"></p>
+              <p class="txt_body">Curamericas 
+                is a nonprofit organization headquartered in Raleigh, North<br>
+                Carolina, that provides primary care and practical health education 
+                to women<br>
+                and children living in poverty throughout Latin America.</p>
+              <p class="txt_body">Curamericas provides the RVF with tax-exempt 
+                status, third-party donation<br>
+                collection and assists in fund administration.</p></td>
+          </tr>
+          <tr>
+            <td width="174" height="202"> 
+              <div align="center"><BR><img src="images/csra.jpg"></div>
+            </td>
+            <td width="566"> <p class="txt_body_lrg"><font size="3"><img src="images/csra_txt.jpg" width="600" height="50"></font></p>
+              <p class="txt_body">El 
+                Consejo de Salud Rural Andino (CSRA), or The Rural Andean Health<br>
+                Counsel, is a Bolivian nonprofit organization that has worked 
+                to reduce the<br>
+                morbidity/mortality of poverty-stricken communities throughout 
+                Bolivia.</p>
+              <p class="txt_body">CSRA oversees the selection of RVF beneficiaries, 
+                administration of all<br>
+                medical/social services, and official fund accounting/reporting.</p></td>
+          </tr>
+        </table>
+      </td>
+    </tr>
+  </table>
+
+  <table width="686" border="1" cellspacing="8" cellpadding="6">
+    <tr> 
+      <td width="294" height="101" valign="top" class="txt_body_lrg"> 
+        <div align="center"><font size="3"><strong><br>CSRA 
+          and Curamericas have worked<br>
+          together in Montero since 1983 to provide: </strong></font></div></td>
+      <td width="338" height="101" valign="top"> 
+        <ul class="txt_body">
+          <li>child survival techniques 
+          <li>maternal/ reproductive health 
+          <li class="txt_body">micro-enterprise development 
+          <li>water sanitation 
+          <li>tuberculosis intervention </ul></td>
+    </tr>
+    <tr> 
+      <td width="294" height="96" valign="top" class="txt_body_lrg"> 
+        <div align="center"><font size="3"><strong><br>Collaborations 
+          include: </strong></font></div></td>
+      <td width="338" valign="top"> <ul>
+          <li class="txt_caption"><span class="txt_body">The US Agency for International 
+            Development</span> 
+          <li class="txt_caption"><span class="txt_body"> The Center for Disease 
+            Control and Prevention</span> 
+          <li class="txt_caption"><span class="txt_body"> CARE International</span> 
+          <li class="txt_caption"><span class="txt_body"> Freedom From Hunger</span> 
+          <li class="txt_caption"><span class="txt_body"> Water for People </span> 
+        </ul></td>
+    </tr>
+   
+  </table>
+  <table width="770" border="0">
+    <tr> 
+      <td height="52" class="txt_body"><div align="center">
+          <p class="txt_title">These efforts have established some of the region's 
+            largest <br>
+            and most successful health care initiatives</p>
+          <p><img src="images/sun.jpg" width="100" height="98"></p>
+          </div></td>
+    </tr>
+   
+  </table>
+
+  <!--#include file="ssi-footer.txt" -->
+  
+  </div>
+</body>
+</html>
